@@ -2,7 +2,7 @@
 List of Root Servers without US Army DNS
 Root Servers
 
-#Source  https://www.iana.org/domains/root/servers
+
 
 # 13 Root Servers 
 The authoritative name servers that serve the DNS root zone, 
@@ -24,3 +24,8 @@ ICANN's Root Server System Advisory Council, which is comprised of the organisat
 maintains a website with more information on root server operations.
 This site tracks the locations of the many root servers, and also provides links to individual operators
 — some of which provide statistics on root server utilisation.
+
+- This file holds the information on root name servers needed to initialize cache of Internet domain name servers
+(e.g. reference this file in the "cache  .  <file>" configuration file of BIND domain name servers).
+
+#Source  https://www.iana.org/domains/root/servers
