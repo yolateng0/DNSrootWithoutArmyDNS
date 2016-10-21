@@ -4,7 +4,7 @@ Root Servers******
 
 
 
-# 13 Root Servers 
+# 13 Root Servers (-2)
 The authoritative name servers that serve the DNS root zone, 
 commonly known as the “root servers”, are a network of hundreds of servers in many countries around the world. 
 They are configured in the DNS root zone as 13 named authorities, as follows.
